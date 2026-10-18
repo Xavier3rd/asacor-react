@@ -1,0 +1,10 @@
+---
+description: Product docs live in docs/; update the wiki when pages or patterns change
+alwaysApply: true
+---
+
+# Wiki del producto
+
+Fuente de verdad: `docs/README.md`, `docs/sitio.md`, `docs/patrones.md`, `docs/changelog.md`.
+
+Al cambiar UI, datos de socios o convenciones de color/imágenes, actualizá el markdown que corresponda y una línea en el changelog. No duplicar esa wiki en skills.
